@@ -1,4 +1,4 @@
-This project was used in conjection for fungal spore detection
+This project was developed to be in conjection with a CNN for a fungal spore detection private project.
 
 This bounding box code includes Multi scaling image, Non maximum supersion.
 
